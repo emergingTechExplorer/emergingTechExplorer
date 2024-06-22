@@ -17,7 +17,7 @@ I'm passionate about programming and love to spend my nights self-coding after a
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,net,express,mongodb,nodejs,git,github,linux,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,net,express,mongodb,nodejs,git,github,linux,python,postman)](https://skillicons.dev)
 
 ### Github Stats
 
