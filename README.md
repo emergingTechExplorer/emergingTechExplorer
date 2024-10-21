@@ -1,4 +1,4 @@
-## Hey there 👋, I'm lakbot!
+## Hey there 👋, I'm emergingTechExplorer!
 
 I'm passionate about programming and love to spend my nights self-coding after a day of work. My goal is to become a full stack developer, and I'm constantly learning and improving my skills to achieve that dream.
 
